@@ -1,2 +1,0 @@
-# Leetcode
-Leetcode Apna college
